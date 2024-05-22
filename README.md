@@ -18,6 +18,7 @@
 
 4. Go to http://localhost:3000
 
+# Output
 <img width="959" alt="image" src="https://github.com/Somesh-008/Task_Manager_Web_app/assets/125235403/d3f6b514-3ec6-40c4-8530-9ff86755e6cf">
 <br>
 <br>
