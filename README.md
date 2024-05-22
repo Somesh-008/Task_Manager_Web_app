@@ -27,6 +27,9 @@
 <img width="956" alt="image" src="https://github.com/Somesh-008/Task_Manager_Web_app/assets/125235403/51399f39-c3f1-484b-9473-15fdfc6a89b7">
 <br>
 <br>
+<img width="956" alt="image" src="https://github.com/Somesh-008/Task_Manager_Web_app/assets/125235403/310ef2e4-d7cf-4e29-ba94-639d00b81db0">
+<br>
+<br>
 <img width="959" alt="image" src="https://github.com/Somesh-008/Task_Manager_Web_app/assets/125235403/31171e1c-9de3-454a-bd0e-afaaddb3e3f7">
 <br>
 <br>
